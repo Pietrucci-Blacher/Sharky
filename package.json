@@ -1,0 +1,31 @@
+{
+  "name": "botly",
+  "version": "1.0.0",
+  "description": "Cool bot for Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pietrucci-Blacher/Botly.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "utils"
+  ],
+  "author": "Sunshio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pietrucci-Blacher/Botly/issues"
+  },
+  "homepage": "https://github.com/Pietrucci-Blacher/Botly#readme",
+  "dependencies": {
+    "discord.js": "^13.5.0",
+    "dotenv": "^10.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.6.0"
+  }
+}
