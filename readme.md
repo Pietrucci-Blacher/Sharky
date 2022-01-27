@@ -1,8 +1,8 @@
-#Botly  [![Discord](https://img.shields.io/discord/934744318848147486.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/vMDjxj56gY) [![GitHub Sponsors](https://img.shields.io/github/sponsors/Pietrucci-Blacher)](https://github.com/Pietrucci-Blacher/Botly) [![GitHub Sponsors](https://img.shields.io/github/stars/Pietrucci-Blacher/Botly?style=flat)](https://github.com/Pietrucci-Blacher/Botly)
+# Botly  [![Discord](https://img.shields.io/discord/934744318848147486.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/vMDjxj56gY) [![GitHub Sponsors](https://img.shields.io/github/sponsors/Pietrucci-Blacher)](https://github.com/Pietrucci-Blacher/Botly) [![GitHub Sponsors](https://img.shields.io/github/stars/Pietrucci-Blacher/Botly?style=flat)](https://github.com/Pietrucci-Blacher/Botly)
 
 -------------------
 <p align="center">
-  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Botly image"/>
+  <img src="https://github.com/Pietrucci-Blacher/Botly/blob/main/assets/logo.png?raw=true" alt="Botly image"/>
   <figcaption align = "center"><b>Botly is a cool and easy discord bot to help you in moderation tasks </b></figcaption>
 </p>
 
