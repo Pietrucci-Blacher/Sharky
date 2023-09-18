@@ -1,14 +1,9 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
-<<<<<<< Updated upstream
-    "config:base"
-  ]
-=======
     "config:base",
     ":disableDependencyDashboard"
   ],
   "automerge": true,
   "confidential": true
->>>>>>> Stashed changes
 }
